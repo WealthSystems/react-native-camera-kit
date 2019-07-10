@@ -1,3 +1,4 @@
+This fork was made in order to fix the duplicate method in react-native 0.59.x
 
 # react-native-camera-kit
 
